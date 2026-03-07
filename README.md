@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there, I am Soumyadeep Paul.
 
-<!--
-**paul-dev-28/paul-dev-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Mechanical Engineering, National Institute of Technology Durgapur.  
+ Interested in Software Development, Machine Learning, and building intelligent systems for engineering applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Languages
+C++
+Java
+Python
+
+### Web Development
+JavaScript
+MongoDB
+Express
+React
+Node.js
+
+### Machine Learning
+Machine Learning
+Scikit-Learn
+Pandas
+NumPy
+
+---
+
+## Projects :
+
+### Diabetes Prediction System -
+Machine learning model to predict diabetes risk using healthcare data. Includes preprocessing, feature analysis, model training, and evaluation using ROC-AUC.
+
+### Multi-Risk Disease Prediction System -
+Full-stack application integrating multiple ML models to predict various health risks using React, Node.js, and Python ML models.
+
+### ML Model Comparison Pipeline -
+Pipeline comparing models such as Logistic Regression, Random Forest, and SVM using evaluation metrics like accuracy, ROC-AUC, and cross-validation.
+
+---
+
+## 🌱 Currently Learning :
+
+- Advanced Machine Learning.
+- Backend Architecture.
+- ML Model Deployment.
+- System Design.
+
+---
+
+## 📊 Areas of Interest :
+
+- Software Development.
+- Machine Learning.  
+- Full Stack Development.  
+- Mechanical Engineering Systems.  
+- Computational Engineering.
+
+---
+
+## 📫 Connect With Me :
+
+- LinkedIn: https://www.linkedin.com/in/soumyadeep-paul-705096324
