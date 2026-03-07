@@ -37,7 +37,7 @@ Full-stack application integrating multiple ML models to predict various health 
 
 ---
 
-## 🌱 Currently Learning :
+## Currently Learning :
 
 - Advanced Machine Learning.
 - Backend Architecture.
@@ -46,7 +46,7 @@ Full-stack application integrating multiple ML models to predict various health 
 
 ---
 
-## 📊 Areas of Interest :
+## Areas of Interest :
 
 - Software Development.
 - Deep Learning.  
@@ -56,6 +56,6 @@ Full-stack application integrating multiple ML models to predict various health 
 
 ---
 
-## 📫 Connect With Me :
+## Connect With Me :
 
 - LinkedIn: https://www.linkedin.com/in/soumyadeep-paul-705096324
