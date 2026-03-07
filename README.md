@@ -1,14 +1,14 @@
 # Hi there, I am Soumyadeep Paul.
 
 ### Education :
-🎓 B.Tech in Mechanical Engineering, National Institute of Technology Durgapur. 
+B.Tech in Mechanical Engineering, National Institute of Technology Durgapur. 
 
 
  Interested in Software Development, Machine Learning, and building intelligent systems for engineering applications.
 
 ---
 
-## 🚀 Tech Stack :
+## Tech Stack :
 
 ### Languages -
 C++
