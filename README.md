@@ -11,16 +11,11 @@ B.Tech in Mechanical Engineering, National Institute of Technology Durgapur.
 ## Tech Stack :
 
 ### Languages -
-C++, Java, Python
+C++, Java, Python, HTML, CSS, Javascript
 
-### Web Development -
-HTML, CSS, JavaScript, MongoDB, Express, React, Node.js
-
-### Machine Learning -
+### Machine Learning and Deep Learning -
 Machine Learning with NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn,
-RandomForest, Logistic Regression, XGBoost, GridsearchCV, RandomizedSearchCV, CNN.
-
-### Deep Learning.
+RandomForest, Logistic Regression, XGBoost, GridsearchCV, RandomizedSearchCV, PyTorch, CNN, Computer Vision.
 
 ---
 
