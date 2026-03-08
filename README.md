@@ -35,11 +35,20 @@ Pipeline comparing models such as Logistic Regression, Random Forest, and SVM us
 ### Multi-Risk Disease Prediction System -
 Full-stack application integrating multiple ML models to predict various health risks using React, Node.js, and Python ML models.
 
-### Predictive Maintenance Model for Machine Failure Detection (In Progress) -
+### Predictive Maintenance Model for Machine Failure Detection -
 Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 • Built an ML pipeline to predict industrial machine failures using sensor telemetry from the AI4I dataset.
 • Applied feature engineering, class imbalance handling, and hyperparameter tuning with stratified cross-validation.
 • Achieved high ROC-AUC performance and used SHAP to interpret the most influential failure indicators.
+
+### Land Use & Land Cover Segmentation using Deep Learning (In Progress) -
+Python, PyTorch, Computer Vision
+	•	Developed a deep learning pipeline for semantic segmentation of satellite imagery using the DeepGlobe dataset to classify
+ land cover types such as urban, agriculture, forest, and water.
+	•	Implemented and compared multiple architectures including U-Net, Attention U-Net, DeepLabV3+, FPN, and PAN-MobileNet
+ for pixel-level classification.
+	•	Evaluated models using IoU, Dice Score, and Pixel Accuracy, with DeepLabV3+ achieving the best performance.
+	•	Performed model interpretability and error analysis using Grad-CAM, confusion matrices, and feature map visualizations.
 
 ---
 
