@@ -18,7 +18,9 @@ HTML, CSS, JavaScript, MongoDB, Express, React, Node.js
 
 ### Machine Learning -
 Machine Learning with NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn,
-RandomForest, Logistic Regression, XGBoost, GridsearchCV, RandomizedSearchCV.
+RandomForest, Logistic Regression, XGBoost, GridsearchCV, RandomizedSearchCV, CNN.
+
+### Deep Learning.
 
 ---
 
